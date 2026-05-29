@@ -1,0 +1,21 @@
+[submodule "hikaru.org/projects/analytics"]
+	path = hikaru.org/projects/analytics
+	url = https://github.com/mizuki-hikaru/analytics
+[submodule "hikaru.org/projects/scripts"]
+	path = hikaru.org/projects/scripts
+	url = https://github.com/mizuki-hikaru/scripts
+[submodule "hikaru.org/projects/yaml2resume"]
+	path = hikaru.org/projects/yaml2resume
+	url = https://github.com/mizuki-hikaru/yaml2resume
+[submodule "hikaru.org/projects/yamlrender"]
+	path = hikaru.org/projects/yamlrender
+	url = https://github.com/mizuki-hikaru/yamlrender
+[submodule "hikaru.org/projects/loan-timeline"]
+	path = hikaru.org/projects/loan-timeline
+	url = https://github.com/mizuki-hikaru/loan-timeline
+[submodule "hikaru.org/projects/blastradius"]
+	path = hikaru.org/projects/blastradius
+	url = https://github.com/mizuki-hikaru/blastradius
+[submodule "hikaru.org/projects/mdserver"]
+	path = hikaru.org/projects/mdserver
+	url = https://github.com/mizuki-hikaru/mdserver
