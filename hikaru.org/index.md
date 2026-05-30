@@ -1,8 +1,8 @@
-# Mizuki Hikaru
+.center: # Mizuki Hikaru
 
-Welcome to hikaru.org.
-
-I enjoy building software, self-hosting services, and creating small tools that do one thing well. This website acts as both a personal homepage and a living workspace for my projects and notes.
+I enjoy building software, self-hosting services, and creating small tools that
+do one thing well. This website acts as both a personal homepage and a living
+workspace for my projects and notes.
 
 .buttons:
     [Resume](/Mizuki-Hikaru-Resume.pdf)
