@@ -24,5 +24,21 @@ For example:
         [Another link](/example)
 ```
 
-.center.buttons:
+.buttons:
     [Style Showcase](/projects/styledown/showcase)
+
+## Usage
+
+```bash
+pip install styledown
+styledown -h # Usage instructions
+```
+
+### --domains mode
+
+If the `--domains` flag is passed to the script, you can put your code in:
+
+ - `./src/first.example.com/`
+ - `./src/second.example.com/`
+
+to serve different sites.
