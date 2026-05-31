@@ -1,0 +1,19 @@
+[Unit]
+Description=Sites
+
+[Service]
+ExecStart=%h/sites/env/bin/styledown --host 0.0.0.0 --port PORT --domains
+WorkingDirectory=%h/sites
+StandardOutput=append:%h/sites/stdout.log
+StandardError=append:%h/sites/stderr.log
+Restart=on-failure
+ReadWritePaths=%h/sites
+PrivateTmp=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+RestrictRealtime=yes
+ProtectHostname=yes
+NoNewPrivileges=yes
+
+[Install]
+WantedBy=default.target
