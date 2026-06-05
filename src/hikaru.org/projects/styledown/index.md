@@ -1,10 +1,3 @@
----
-description: >
-  Styledown is an extension to Markdown that adds clean syntax for styled
-  container blocks and includes a lightweight web server for serving rendered
-  content.
----
-
 # Styledown
 
 Styledown is an extension to Markdown that adds clean syntax for styled

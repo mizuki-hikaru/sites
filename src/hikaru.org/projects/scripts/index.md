@@ -1,7 +1,3 @@
----
-description: Small shell scripts for managing Ubuntu/KVM/libvirt virtual machines.
----
-
 # Scripts
 
 Small shell scripts for managing Ubuntu/KVM/libvirt virtual machines.

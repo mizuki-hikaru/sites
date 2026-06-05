@@ -1,7 +1,3 @@
----
-description: Turn a YAML file and Jinja2 template into HTML or PDF.
----
-
 # yamlrender
 
 yamlrender takes a YAML file and a Jinja2 template and renders a HTML or PDF
