@@ -6,6 +6,7 @@ SERVICE_NAME="sites.service"
 echo "Requesting sudo privileges to enable linger"
 sudo loginctl enable-linger $USER
 
+rm -rf env
 python3 -m venv env
 . env/bin/activate
 pip install styledown

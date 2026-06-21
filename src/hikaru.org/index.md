@@ -1,4 +1,4 @@
-.center: # Mizuki Hikaru
+# Mizuki Hikaru #
 
 I enjoy building software, self-hosting services, and creating small tools
 that do one thing well. This website acts as both a personal homepage and a

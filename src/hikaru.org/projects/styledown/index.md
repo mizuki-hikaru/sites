@@ -7,6 +7,10 @@ content.
 For example:
 
 ```markdown
+# A centered heading #
+
+## A centered subheading ##
+
 .center: # A *markdown* heading
 
 .center.card:

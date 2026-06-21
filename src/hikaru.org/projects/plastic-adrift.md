@@ -1,5 +1,4 @@
-.center:
-    # Plastic Adrift
+# Plastic Adrift #
 
 Interactive ocean-current visualization showing where floating plastic
 debris is likely to accumulate over time based on drift simulations and
